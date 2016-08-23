@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1471982132617
+Build-GIT-Revision: ${build.revision}
+Build-Jdk: 1.8.0_101
+Build-Jenkins-Number: ${BUILD_NUMBER}
+Build-Jenkins-Time: 2016-08-23T19:55:27Z
+Build-Tag: ${BUILD_TAG}
+Built-By: mrodriguez
+Bundle-Description: Core Bundle
+Bundle-ManifestVersion: 2
+Bundle-Name: Company - Core
+Bundle-SymbolicName: globant.aem.training.company-core
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Embed-Dependency: jtds
+Embed-Transitive: true
+Export-Package: com.globant.aem.training.core;uses:="org.osgi.framework,
+ org.slf4j,javax.servlet,org.apache.sling.commons.json,org.apache.sling.
+ api,org.apache.sling.api.servlets,javax.jcr";version="0.0.1.SNAPSHOT"
+Import-Package: javax.jcr;version="[2.0,3)",javax.servlet,org.apache.sli
+ ng.api;version="[2.3,3)",org.apache.sling.api.servlets;version="[2.1,3)
+ ",org.apache.sling.commons.json;version="[2.0,3)",org.osgi.framework;ve
+ rsion="[1.3,2)",org.slf4j;version="[1.7,2)"
+Service-Component: OSGI-INF/serviceComponents.xml
+Tool: Bnd-1.50.0
