@@ -1,2 +1,6 @@
 company-ui/target/
 company-core/target/
+.DS_Store
+.project
+.settings/
+
