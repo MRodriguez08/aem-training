@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
+    xmlns:jcr="http://www.jcp.org/jcr/1.0" jcr:primaryType="sling:OsgiConfig"
+    jdbc.driver.class="{String}com.mysql.jdbc.Driver"
+    jdbc.connection.uri="{String}jdbc:mysql://localhost:3306/aemtraining"
+    jdbc.username="{String}root"
+    jdbc.password="{String}ms_admin" 
+    default.readonly="{Boolean}true"
+    default.autocommit="{Boolean}false"
+    pool.size="{Long}10"
+    pool.max.wait.msec="{Long}100"
+    datasource.name="{String}mysqldbpool"
+    datasource.svc.properties="{String}"/>

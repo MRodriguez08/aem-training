@@ -4,6 +4,7 @@ import java.util.Dictionary;
 import javax.jcr.RepositoryException;
 import javax.jcr.Session;
 import org.apache.felix.scr.annotations.Component;
+import org.apache.felix.scr.annotations.Properties;
 import org.apache.felix.scr.annotations.Property;
 import org.apache.felix.scr.annotations.Reference;
 import org.apache.felix.scr.annotations.Service;
@@ -12,10 +13,18 @@ import org.osgi.service.component.ComponentContext;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-@Component(immediate = true, metatype = true, label = "Cleanup Service")
+@Component(immediate = true, metatype = true, label = "Cleanup Service", enabled = false)
 @Service(value = Runnable.class)
-@Property(name = "scheduler.expression", value = "*/5 * * * * ?") // Every 5 seconds
-
+@Properties({
+    @Property(
+        name = "scheduler.expression", 
+        value = "*/5 * * * * ?"), // Every 5 seconds
+    @Property(
+        label = "Enabled",
+        description = "Enable/Disable the Scheduled Service",
+        name = "service.enabled",
+        boolValue = false)
+})
 public class CleanupServiceImpl implements Runnable {
 
     private static final Logger LOGGER = LoggerFactory.getLogger(CleanupServiceImpl.class);

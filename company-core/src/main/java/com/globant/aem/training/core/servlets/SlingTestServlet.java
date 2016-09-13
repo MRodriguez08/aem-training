@@ -16,7 +16,7 @@ import org.apache.sling.api.servlets.SlingSafeMethodsServlet;
     extensions = "html",
     methods = "GET"
 )
-public class SlingServletTest extends SlingSafeMethodsServlet {
+public class SlingTestServlet extends SlingSafeMethodsServlet {
 
     @Override
     protected void doGet(SlingHttpServletRequest request, SlingHttpServletResponse response) throws ServletException, IOException {

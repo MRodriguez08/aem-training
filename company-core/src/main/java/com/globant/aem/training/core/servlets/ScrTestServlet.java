@@ -22,7 +22,7 @@ import org.apache.sling.api.servlets.SlingSafeMethodsServlet;
     @Property(name = "sling.servlet.extensions", value = "html"),
     @Property(name = "sling.servlet.methods", value = "GET")
 })
-public class ScrServletTest extends SlingSafeMethodsServlet {
+public class ScrTestServlet extends SlingSafeMethodsServlet {
 
     @Override
     protected void doGet(SlingHttpServletRequest request, SlingHttpServletResponse response) throws ServletException, IOException {
