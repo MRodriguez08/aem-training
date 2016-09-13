@@ -1,0 +1,92 @@
+30.08.2016 16:38:13 Vault sync service started and observing this directory.
+30.08.2016 16:38:13 Sync root configured with filter /home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/META-INF/vault/filter.xml
+30.08.2016 16:38:13 Syncing in /home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root is enabled by .vlt-sync-config.properties
+30.08.2016 16:38:56 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/components/myComponent/myComponent.jsp
+30.08.2016 16:38:56 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+30.08.2016 16:41:42 A file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/components/myOtherComponent/myOtherComponent.jsp
+30.08.2016 16:42:21 U jcr:///apps/company/components/myOtherComponent/myOtherComponent.jsp
+01.09.2016 15:06:41 Vault sync service started and observing this directory.
+01.09.2016 15:06:41 Sync root configured with filter /home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/META-INF/vault/filter.xml
+01.09.2016 15:06:41 Syncing in /home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root is enabled by .vlt-sync-config.properties
+01.09.2016 15:08:44 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 15:11:14 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 15:16:42 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 15:23:19 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 15:49:34 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 15:49:49 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 15:53:05 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 15:53:11 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 15:54:24 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:08:35 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:09:38 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:11:41 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:11:56 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:13:23 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:14:00 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:17:37 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:18:26 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:21:43 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:22:05 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:29:10 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:36:59 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:41:43 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:43:40 Vault sync service started and observing this directory.
+01.09.2016 16:43:40 Sync root configured with filter /home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/META-INF/vault/filter.xml
+01.09.2016 16:43:40 Syncing in /home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root is enabled by .vlt-sync-config.properties
+01.09.2016 16:47:56 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:49:45 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+01.09.2016 16:52:21 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+07.09.2016 19:37:39 Vault sync service started and observing this directory.
+07.09.2016 19:37:39 Sync root configured with filter /home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/META-INF/vault/filter.xml
+07.09.2016 19:37:39 Syncing in /home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root is enabled by .vlt-sync-config.properties
+12.09.2016 20:22:06 Vault sync service started and observing this directory.
+12.09.2016 20:22:07 Sync root configured with filter /home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/META-INF/vault/filter.xml
+12.09.2016 20:22:07 Syncing in /home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root is enabled by .vlt-sync-config.properties
+12.09.2016 20:24:49 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+12.09.2016 20:37:07 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+12.09.2016 20:39:31 A jcr:///apps/company/config/
+12.09.2016 20:39:31 A jcr:///apps/company/config.author/
+12.09.2016 20:39:31 A jcr:///apps/company/i18n/
+12.09.2016 20:39:31 A jcr:///apps/company/templates/
+12.09.2016 20:39:31 A jcr:///apps/company/tests/
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/colctrl/
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/helloworld/
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/image/
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/text/
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/textimage/
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/title/
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/colctrl/clientlib/
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/colctrl/clientlib/css.txt
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/colctrl/clientlib/style.css
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/helloworld/cq:dialog/
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/helloworld/helloworld.html
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/textimage/clientlib/
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/textimage/clientlib/css.txt
+12.09.2016 20:39:31 A jcr:///apps/company/components/content/textimage/clientlib/style.css
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/logo/
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/page/
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/topnav/
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/page/clientlib/
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/page/page.html
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/page/partials/
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/page/clientlib/css.txt
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/page/clientlib/style.css
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/page/partials/footlibs.html
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/page/partials/head.html
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/page/partials/head.js
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/page/partials/headlibs.html
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/page/partials/main.html
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/page/partials/main.js
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/topnav/clientlib/
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/topnav/topnav.html
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/topnav/topnav.js
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/topnav/clientlib/css.txt
+12.09.2016 20:39:31 A jcr:///apps/company/components/structure/topnav/clientlib/style.css
+12.09.2016 20:39:31 A jcr:///apps/company/templates/page-content/
+12.09.2016 20:39:31 A jcr:///apps/company/templates/page-home/
+12.09.2016 20:39:31 A jcr:///apps/company/tests/SampleTests.js
+12.09.2016 20:39:31 A jcr:///apps/company/tests/js.txt
+12.09.2016 20:44:09 U file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/install/company-core-0.0.1-SNAPSHOT.jar
+12.09.2016 20:44:10 A file:///home/mrodriguez/aem-training/workspace/company.custom/sampleproject/company-ui/src/main/content/jcr_root/apps/company/i18n/fr/copyright/
