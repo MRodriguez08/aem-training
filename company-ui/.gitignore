@@ -3,3 +3,4 @@
 .classpath
 .project
 /bin/
+src/main/content/jcr_root/libs/
